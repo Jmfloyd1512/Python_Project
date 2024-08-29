@@ -80,7 +80,7 @@ fig.suptitle('Likelihood of skills required for  Job Postings in US', fontsize =
 fig.tight_layout(h_pad=0.5)
 ```
 ### Results
-![Visualization of Top Skills for Data Nerds](3_Project\Image\Skill_demand_Final_Result.png)
+![Visualization of Top Skills for Data Nerds](3_Project/Image/Skill_demand_Final_Result.png)
 
 ### Insights
 - With SQL being mentioned in more than half of job listings for both professions, it is the most sought-after ability for Data Scientists and Analysts. Python is the most sought-after talent for Data Engineers, showing up in 68% of job posts.
