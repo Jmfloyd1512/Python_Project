@@ -118,7 +118,7 @@ for i in range(5):
 ```
 
 ### Results
-![Trending TopSkills fo Data Analysts in the US](3_Project\Image\Skill_Trend.png)
+![Trending TopSkills fo Data Analysts in the US](3_Project/Image/Skill_Trend.png)
 
 ### Insights
 
@@ -143,7 +143,7 @@ ax.xaxis.set_major_formatter(plt.FuncFormatter(lambda x, pos: f'${int(x/1000)}K'
 plt.show()
 ```
 ### Results
-![Salary Distribution Per Jobs](3_Project\Image\Top_Salaries_per_Skill.png)
+![Salary Distribution Per Jobs](3_Project/Image/Top_Salaries_per_Skill.png)
 
 ### Insights
 
@@ -176,7 +176,7 @@ plt.show()
 ### Results
 Here's the breakdown of the highest-paid & most in-demand skills for data analysts in the US:
 
-![Top_Salaries](3_Project\Image\Salary_per_job_Skills.png)
+![Top_Salaries](3_Project/Image/Salary_per_job_Skills.png)
 
 - **Top Graph Insights:** The top graph indicates that specialized technical skills such as dplyr, Bitbucket, and Gitlab are linked to higher salaries, with some reaching up to $200K, suggesting that advanced technical expertise can boost earning potential.
 
@@ -207,7 +207,7 @@ plt.tight_layout()
 plt.show()
 ```
 ### Results
-![DA_Skills](3_Project\Image\DA_Skills.png)
+![DA_Skills](3_Project/Image/DA_Skills.png)
 
 ## Insights
 
@@ -241,6 +241,8 @@ plt.tight_layout()
 
 plt.show()
 ```
+### Result
+![Skill Per Technology](3_Project/Image/Skill_Technology.png)
 
 ### Insights:
 - **Programming Skills:** The scatter plot reveals that most programming skills (marked in blue) are concentrated at higher salary levels compared to other categories, suggesting that expertise in programming may lead to better salary prospects within the data analytics field.
