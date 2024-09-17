@@ -143,7 +143,8 @@ ax.xaxis.set_major_formatter(plt.FuncFormatter(lambda x, pos: f'${int(x/1000)}K'
 plt.show()
 ```
 ### Results
-![Salary Distribution Per Jobs](3_Project/Image/Top_Salaries_per_Skill.png)
+
+![Top_Salaries](3_Project/Image/Salary_per_job_Skills.png)
 
 ### Insights
 
@@ -176,7 +177,8 @@ plt.show()
 ### Results
 Here's the breakdown of the highest-paid & most in-demand skills for data analysts in the US:
 
-![Top_Salaries](3_Project/Image/Salary_per_job_Skills.png)
+
+![Salary Distribution Per Jobs](3_Project/Image/Top_Salaries_per_Skill.png)
 
 - **Top Graph Insights:** The top graph indicates that specialized technical skills such as dplyr, Bitbucket, and Gitlab are linked to higher salaries, with some reaching up to $200K, suggesting that advanced technical expertise can boost earning potential.
 
