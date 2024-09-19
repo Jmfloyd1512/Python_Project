@@ -83,7 +83,7 @@ fig.tight_layout(h_pad=0.5)
 ![Visualization of Top Skills for Data Nerds](3_Project/Image/Skill_demand_Final_Result.png)
 
 ### Insights
-- With SQL being mentioned in more than half of job listings for both professions, it is the most sought-after ability for Data Scientists and Analysts. Python is the most sought-after talent for Data Engineers, showing up in 68% of job posts.
+- With SQL being mentioned in more than half of job listings for both professions, it is the most sought-after ability for Data Engineers and Analysts. SQL is the most sought-after talent for Data Engineers, showing up in 68% of job posts.
 
 - Compared to Data analysts and Scientists, who are required to be skilled in more broad data management and analysis tools (Excel, Tableau), Data Engineers need more specialised technological capabilities (AWS, Azure, Spark).
 
